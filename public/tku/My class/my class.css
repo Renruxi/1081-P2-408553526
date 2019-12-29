@@ -1,0 +1,31 @@
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+h6{
+    text-align: center;
+   
+}
+.kb{
+    margin: 20px 50px;
+}
+
+.heading{
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin: 5px;
+    text-align:center;
+
+    background-color: bisque;
+
+}
+
+.tablebody{
+    font-size:13px;
+    font-weight:2px;
+    letter-spacing: 5px;
+    margin: 5px;
+    text-align:center;
+ 
+}
